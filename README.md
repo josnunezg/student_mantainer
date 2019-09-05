@@ -28,7 +28,7 @@ To test api you can use [GraphiQL](https://electronjs.org/apps/graphiql)
 
 We don't have unit test for this version
 
-## Gems user
+## Gems used
 
 For this project, we use those gems:
   1. [Ruby GraphQL](https://github.com/rmosolgo/graphql-ruby)
