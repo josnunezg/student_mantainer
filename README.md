@@ -27,3 +27,15 @@ To test api you can use [GraphiQL](https://electronjs.org/apps/graphiql)
 ## Rspec
 
 We don't have unit test for this version
+
+## Gems user
+
+For this project, we use those gems:
+  1. [Ruby GraphQL](https://github.com/rmosolgo/graphql-ruby)
+
+## NPM Libraries
+
+for this proyect, we use those npm libraries:
+
+ 1. [React](https://es.reactjs.org/)
+ 2. [Apollo](https://www.apollographql.com/docs/react/essentials/get-started/)
