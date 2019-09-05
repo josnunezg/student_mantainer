@@ -8,6 +8,7 @@
   3. Rspec
   4. Gem used
   5. NPM Libraries
+  6. Student Schema
 
 
 ## Get Started
@@ -50,3 +51,15 @@ for this proyect, we use those npm libraries:
  1. [React](https://es.reactjs.org/)
  2. [Apollo](https://www.apollographql.com/docs/react/essentials/get-started/)
  3. [Evergreen UI](https://evergreen.segment.com/)
+
+## Student Schema
+
+```
+  Student
+    id: Integer
+    first_name: String
+    last_name: String
+    list_number: Integer
+    is_present: Boolean
+    rut: String
+```
