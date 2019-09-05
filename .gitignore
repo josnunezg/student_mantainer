@@ -1,3 +1,4 @@
 api/db/*.sqlite3
 api/log/*
 api/tmp/**/*
+frontend/node_modules/**/*
