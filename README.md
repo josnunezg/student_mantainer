@@ -1,5 +1,15 @@
 # student_mantainer
 
+## Indice
+  1. Get Started
+    * Rails
+    * Frontend
+  2. Test Api
+  3. Rspec
+  4. Gem used
+  5. NPM Libraries
+
+
 ## Get Started
 
   `git clone git@github.com:josnunezg/student_mantainer.git`
