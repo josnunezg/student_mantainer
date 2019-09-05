@@ -1,7 +1,7 @@
 # student_mantainer
 
 ## Indice
-  1. Get Started
+  1. Get Started \n
     1. Rails
     2. Frontend
   2. Test Api
