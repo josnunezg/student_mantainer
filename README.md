@@ -2,8 +2,8 @@
 
 ## Indice
   1. Get Started
-    * Rails
-    * Frontend
+    1. Rails
+    2. Frontend
   2. Test Api
   3. Rspec
   4. Gem used
