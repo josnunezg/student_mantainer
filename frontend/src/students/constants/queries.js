@@ -9,6 +9,7 @@ export const GET_STUDENTS = gql`
       isPresent
       firstName
       lastName
+      rut
     }
   }
 `

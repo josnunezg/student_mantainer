@@ -7,8 +7,8 @@ module Mutations
     type Boolean
 
     def resolve(student:)
-      student = Student.find_by_id(student[:id])
-      student&.update student.to_h
+      _student = Student.find_by_id(student[:id])
+      _student&.update student.to_h
     end
 
   end
